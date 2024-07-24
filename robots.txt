@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blateleo.github.io/sitemap.html.gz
+Sitemap: https://blateleo.github.io/app/sitemap.html.gz
+Sitemap: https://blateleo.github.io/assets/sitemap.html.gz
+Sitemap: https://blateleo.github.io/css/sitemap.html.gz
+Sitemap: https://blateleo.github.io/includes/sitemap.html.gz
+Sitemap: https://blateleo.github.io/item/sitemap.html.gz
+Sitemap: https://blateleo.github.io/src/sitemap.html.gz
